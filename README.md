@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhinav Ram Tripathi</h1>
-<h3 align="center">Aspiring Web Developer | Passionate about pushing my limits to grow 🚀</h3>
+<h3 align="center"> Web Developer| FullStack Developer | Passionate about pushing my limits to grow 🚀</h3>
 
 ---
 
-🌱 *Currently Learning:* Spring Boot, REST APIs, and Frontend Development  
-💬 *Ask Me About:* Java, HTML, CSS, Backend APIs, Real-time Systems  
+🌱 *Currently Learning:* MERN, Next.js, REST APIs, and FullStack Development  
+💬 *Ask Me About:* JavaScript, React.js, Node.js, Express.js, Next.js, Java, HTML, CSS, Backend APIs, Real-time Systems  
 📫 *Reach Me:* [GitHub Profile](https://github.com/abhinav270204)  
 ⚡ *Fun Fact:* I believe every bug is just a hidden feature waiting to be discovered 😄
 
