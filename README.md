@@ -123,7 +123,7 @@
 ## 📫 Let's Connect
 
 - **GitHub:** [github.com/abhinav270204](https://github.com/abhinav270204)
-- **Portfolio:** [Portfolio](https://github.com/abhinav270204/Portfolio)
+- **Portfolio:** [Portfolio](https://portfolio-abhinavv.vercel.app/)
 
 ---
 
